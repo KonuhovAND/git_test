@@ -34,7 +34,7 @@ for n in range(1,1000000):
     ploshad_small_circle+= ploshad(radius=r_small_circle) * WEX1
     ploshad_small_circle = round(ploshad_small_circle)
     
-    ploshad_big_circle+=ploshad(radius=r_big_circle) * WEX1
+    ploshad_big_circle+=ploshad(radius=r_big_circle) * WEX2
     ploshad_big_circle = round(ploshad_big_circle)
     
     if time_big_fetil <= all_time_small:
@@ -48,6 +48,8 @@ for n in range(1,1000000):
         
         break
     
-# TODO asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf
+# min = 82 
+# rs = 3.25
+# wex
 
     
